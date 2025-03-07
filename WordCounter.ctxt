@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WordCounter
+comment0.text=\r\n\ Keeps\ a\ record\ of\ how\ many\ times\ each\ word\ was\ entered\ by\ users.\r\n\ \r\n\ @author\ \r\n\ @version\ 1.1\ (2025.03.06)\r\n
+comment1.params=
+comment1.target=WordCounter()
+comment1.text=\r\n\ Creates\ a\ WordCounter.\r\n
+comment2.params=input
+comment2.target=void\ addWords(java.util.HashSet)
+comment2.text=\r\n\ Update\ the\ usage\ count\ of\ all\ words\ in\ input.\r\n\ @param\ input\ A\ set\ of\ words\ entered\ by\ the\ user.\r\n
+comment3.params=responseMap
+comment3.target=void\ printWordCounts(java.util.HashMap)
+comment3.text=\r\n\ Print\ the\ usage\ count\ of\ words,\ excluding\ those\ already\ present\ in\ responseMap.\r\n\ @param\ responseMap\ The\ map\ of\ predefined\ responses.\r\n
+numComments=4

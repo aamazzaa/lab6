@@ -1,7 +1,10 @@
 #BlueJ class context
 comment0.target=InputReader
+comment0.text=\r\n\ Reads\ user\ input\ from\ the\ terminal\ and\ converts\ it\ into\ a\ set\ of\ words.\r\n\ \r\n\ @author\ \r\n\ @version\ 1.1\ (2025.03.06)\r\n
 comment1.params=
 comment1.target=InputReader()
+comment1.text=\r\n\ Creates\ a\ new\ InputReader.\r\n
 comment2.params=
 comment2.target=java.util.HashSet\ getInput()
+comment2.text=\r\n\ Reads\ a\ line\ of\ text\ and\ returns\ a\ set\ of\ words.\r\n\ @return\ A\ set\ of\ words\ from\ user\ input.\r\n
 numComments=3
